@@ -16,12 +16,16 @@ public class Main {
 		
 		print();
 		
+		System.out.println("Hello World!!");
+		System.exit(0);
+		
 	}
 	
 	public static void print() {
 	
-	System.out.println("Hello World!!");
-	System.exit(0);
+		System.out.println("This is the program that prints:");
+		System.out.println("Hello World!!");
+
 	}
 
 }
